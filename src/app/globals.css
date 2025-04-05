@@ -15,6 +15,10 @@ body {
   --border-color-card-nft: #131317;
   --color-background-card-nft: #05030a;
 
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 1024px;
+  --breakpoint-lg: 1280px;
+
   --color-background: hsl(var(--background));
   --color-foreground: hsl(var(--foreground));
 
@@ -62,6 +66,8 @@ body {
   --max-width-card-nft: 17.4375rem;
 
   --height-card-nft: 14.75rem;
+
+  --max-width-card-colectors: 37rem;
 }
 
 /*
